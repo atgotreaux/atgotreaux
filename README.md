@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**atgotreaux/atgotreaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Howdy! My name is Aaron Gotreaux. I am a software engineer based in Texas. The bulk of my experience is within the e-clinical, financial and insurance sectors as a full stack Java developer.
 
-Here are some ideas to get you started:
+I enjoy wrestling with legacy systems, tinkering with unfamiliar stacks and writing clean solutions to puzzles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please don't hesitate to contact me if you'd like to chat or discuss your project with me as I am looking to become more active as a contributor to projects that interest me.
+
+## Current Projects
+
+* Backfilling [**my solutions**](https://github.com/atgotreaux/advent-of-code) for [**Advent of Code**](https://adventofcode.com/), an Advent calendar of programming puzzles.
+* Redesigning [my personal website](https://github.com/atgotreaux/site) @ [gotreaux.com](http://gotreaux.com/).
+* Prototyping a webservice in secret that I hope to have launched sometime in 2025.
