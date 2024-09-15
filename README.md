@@ -9,5 +9,5 @@ Please don't hesitate to contact me if you'd like to chat or discuss your projec
 ## Current Projects
 
 * Backfilling [**my solutions**](https://github.com/atgotreaux/advent-of-code) for [**Advent of Code**](https://adventofcode.com/), an Advent calendar of programming puzzles.
-* Redesigning [**my personal website**](https://github.com/atgotreaux/site) @ [**gotreaux.com**](http://gotreaux.com/).
+* Redesigning [**my personal website**](https://github.com/atgotreaux/site) @ [**gotreaux.com**](https://gotreaux.com/).
 * Prototyping a webservice in secret that I hope to have launched sometime in 2025.
